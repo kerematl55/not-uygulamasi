@@ -1,0 +1,5 @@
+pwd: bulunduğum klasörü gösterir
+ls: klasördeki dosyaları listeler
+cd: klasör değiştirir
+mkdir: yeni klasör oluşturur
+cat: dosya içeriğini gösterir
