@@ -3,3 +3,10 @@ ls: klasördeki dosyaları listeler
 cd: klasör değiştirir
 mkdir: yeni klasör oluşturur
 cat: dosya içeriğini gösterir
+
+Hafta 2 Git komutları:
+git init: klasörü Git reposuna çevirir
+git add: dosyayı staging area'ya ekler
+git commit: staging'deki değişiklikleri kaydeder
+git status: dosyaların durumunu gösterir
+git log: commit geçmişini gösterir
